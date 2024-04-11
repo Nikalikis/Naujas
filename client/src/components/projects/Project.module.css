@@ -1,0 +1,12 @@
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px
+}
+
+.project img {
+    width: 200px;
+    height: 200px;
+}
